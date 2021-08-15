@@ -4,4 +4,4 @@ noticing Redux getting more and more popular in the React developers community a
 
 https://nervous-golick-0cc7a9.netlify.app
 
-<img src=''>
+<img src='https://github.com/TotoroDavid/redux---read-redux-/blob/master/Screen%20Shot%202021-08-15%20at%203.22.41%20pm.png?raw=true'>
